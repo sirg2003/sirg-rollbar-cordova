@@ -1,0 +1,35 @@
+{
+  "name": "sirg-rollbar-cordova",
+  "version": "0.2.0",
+  "description": "Rollbar offical supported plugin for Cordova. Provides full Rollbar functionality for Javascript, and native iOS and Android environments.",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sirg2003/sirg-rollbar-cordova"
+  },
+  "cordova": {
+    "id": "sirg-rollbar-cordova",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "rollbar",
+    "plugin"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    }
+  ],
+  "scripts": {
+    "test": "echo 'Error: no test specified'"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
